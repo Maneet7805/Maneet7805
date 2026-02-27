@@ -6,7 +6,7 @@
 <a href="https://linkedin.com/in/maneet-arvind-mehta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maneet-arvind-mehta" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">🚧 Currently Working On:</h3>
+<h3 align="left">Currently Working On:</h3>
 <ul>
   <li>Building a full web application using the <strong>ASP.NET framework</strong>, focusing on backend logic and complete website hosting</li>
   <li>Developing a <strong>2D platform-based game</strong> using <strong>Python (Pygame)</strong>, including game mechanics and level design</li>
