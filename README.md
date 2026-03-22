@@ -9,8 +9,6 @@
 <h3 align="left">Currently Working On:</h3>
 <ul>
   <li>Building a full web application using the <strong>ASP.NET framework</strong>, focusing on backend logic and complete website hosting</li>
-  <li>Developing a <strong>2D platform-based game</strong> using <strong>Python (Pygame)</strong>, including game mechanics and level design</li>
-  <li>Using real datasets to <strong>analyze and compare data structures</strong> such as arrays, linked lists, stacks, and queues based on performance and efficiency</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
