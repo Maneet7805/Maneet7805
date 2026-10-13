@@ -2,16 +2,16 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" alt="Software engineer, Computer Science at APU × De Montfort. Shipped a production CRM as an intern. LLM agents with controlled tool calling. Full-stack: Next.js, .NET, PostgreSQL." />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=C2552F&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=C2552F&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" alt="Software engineer, Computer Science at APU × De Montfort. Shipped a production CRM as an intern. LLM agents with controlled tool calling. Full-stack: Next.js, .NET, PostgreSQL." />
   </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-111111?style=flat-square" alt="BSc (Hons) Computer Science" />
-  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-111111?style=flat-square" alt="APU × De Montfort University, 2024–2027" />
-  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-111111?style=flat-square" alt="Year 1 CGPA 3.67" />
-  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Kuala Lumpur, Malaysia" />
+  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=C2552F" alt="BSc (Hons) Computer Science" />
+  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=C2552F" alt="APU × De Montfort University, 2024–2027" />
+  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-F4F2EE?style=flat-square&labelColor=C2552F" alt="Year 1 CGPA 3.67" />
+  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=C2552F&logo=googlemaps&logoColor=white" alt="Kuala Lumpur, Malaysia" />
 </p>
 
 <p align="center">
@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-C2552F?style=for-the-badge&labelColor=C2552F&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -50,8 +50,8 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Maneet7805&background=111111&border=2B2B2B&stroke=3A3A3A&ring=F5F5F5&fire=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E5E5&sideLabels=BDBDBD&dates=8A8A8A" alt="GitHub contribution streak" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maneet7805&layout=compact&langs_count=8&bg_color=111111&title_color=f5f5f5&text_color=d4d4d4&border_color=2b2b2b" alt="Most used languages" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Maneet7805&background=F4F2EE&border=E9E6E0&stroke=A9A6A0&ring=C2552F&fire=C2552F&currStreakNum=C2552F&sideNums=0D0D0D&currStreakLabel=3A3A3A&sideLabels=77756F&dates=A9A6A0" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maneet7805&layout=compact&langs_count=8&bg_color=f4f2ee&title_color=0d0d0d&text_color=3a3a3a&border_color=e9e6e0" alt="Most used languages" />
 </p>
 
 ---
@@ -59,7 +59,7 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=oldie&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -85,14 +85,14 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## Connect
 
 <p align="center">
-  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-C2552F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 <p align="center"><i>A feature isn't finished when it works. It's finished when people use it.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:111111&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2552f,100:e08f6c&height=110&section=footer" alt="" />
