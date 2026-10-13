@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-C2552F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-C2552F?style=for-the-badge&labelColor=C2552F&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
 </p>
 
 <p align="center">
