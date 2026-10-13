@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0820,50:312e81,100:6d28d9&height=210&section=header&text=Maneet%20Arvind%20Mehta&fontSize=46&fontColor=ede9fe&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Computer%20Science%20%40%20APU%20%C3%97%20De%20Montfort&descSize=17&descAlignY=58&animation=fadeIn" alt="Maneet Arvind Mehta, software engineer and Computer Science student at APU × De Montfort" />
+<h1 align="center">Maneet Arvind Mehta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL;Open+to+software+engineering+internships" alt="Shipped a production CRM as an intern. LLM agents with controlled tool calling. Full-stack: Next.js, .NET, PostgreSQL. Open to software engineering internships." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" alt="Software engineer, Computer Science at APU × De Montfort. Shipped a production CRM as an intern. LLM agents with controlled tool calling. Full-stack: Next.js, .NET, PostgreSQL." />
 </p>
 
 <p align="center">
@@ -12,7 +12,14 @@
 </p>
 
 <p align="center">
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://maneet7805.github.io"><img src="assets/portfolio-preview.png" width="88%" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
+</p>
+
+<p align="center">
+  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -23,12 +30,6 @@
 ## About
 
 CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** and took it to production. Its first customer PO came in **12 hours** after a quotation.
-
-<p>
-  <img src="https://img.shields.io/badge/Open%20to-SWE%20Internships-7C3AED?style=flat-square" alt="Open to SWE internships" />
-  <img src="https://img.shields.io/badge/Open%20to-Full--stack-4F46E5?style=flat-square" alt="Open to full-stack" />
-  <img src="https://img.shields.io/badge/Open%20to-AI%20Products-6D28D9?style=flat-square" alt="Open to AI products" />
-</p>
 
 ---
 
@@ -78,7 +79,7 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -98,17 +99,6 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maneet7805/Maneet7805/output/github-snake.svg" />
   <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Maneet7805/Maneet7805/output/github-snake.svg" />
 </picture>
-
----
-
-## Current Focus
-
-```yaml
-studying:  BSc CS · APU × De Montfort (2024–2027)
-building:  PromptForge
-shipped:   Spark CRM, in production
-open_to:   SWE internships
-```
 
 ---
 
