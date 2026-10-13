@@ -94,5 +94,3 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ---
 
 <p align="center"><i>A feature isn't finished when it works. It's finished when people use it.</i></p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7a59,100:ffab94&height=110&section=footer" alt="" />
