@@ -66,34 +66,6 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 
 ---
 
-## Achievements
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="25%"><h2>12h</h2><sub>Quote → PO<br />Spark CRM</sub></td>
-    <td align="center" width="25%"><h2>3.67</h2><sub>Year 1 CGPA<br />APU × De Montfort</sub></td>
-    <td align="center" width="25%"><h2>40%+</h2><sub>Faster runtime<br />Pygame platformer</sub></td>
-    <td align="center" width="25%"><h2>4</h2><sub>Certifications<br />Red Hat · AWS</sub></td>
-  </tr>
-</table>
-</div>
-
----
-
-## Certifications
-
-<p>
-  <img src="https://img.shields.io/badge/Red%20Hat-RH124%20Sys%20Admin%20I-4C1D95?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat System Administration I (RH124)" />
-  <img src="https://img.shields.io/badge/Red%20Hat-RH134%20Sys%20Admin%20II-4C1D95?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat System Administration II (RH134)" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/AWS%20Academy-Cloud%20Foundations-312E81?style=for-the-badge" alt="AWS Academy Graduate: Cloud Foundations" />
-  <img src="https://img.shields.io/badge/AWS%20Academy-ML%20Foundations-312E81?style=for-the-badge" alt="AWS Academy Graduate: Machine Learning Foundations" />
-</p>
-
----
-
 ## GitHub Analytics
 
 <p align="center">
