@@ -78,7 +78,7 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
