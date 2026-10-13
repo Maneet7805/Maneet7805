@@ -9,10 +9,10 @@
   "growingAnimation": true,
   "contribColors": [
     "#e9e6e0",
-    "#c9c5bd",
-    "#a9a6a0",
-    "#77756f",
-    "#0d0d0d"
+    "#f0c4ae",
+    "#e08f6c",
+    "#c2552f",
+    "#8a3418"
   ],
   "darkMode": {
     "type": "normal",
@@ -23,10 +23,10 @@
     "radarColor": "#c2552f",
     "contribColors": [
       "#1f1e1c",
-      "#3a3a3a",
-      "#77756f",
-      "#a9a6a0",
-      "#f4f2ee"
+      "#5a2a1a",
+      "#8a3418",
+      "#c2552f",
+      "#e08f6c"
     ]
   }
 }

@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=0D0D0D" alt="BSc (Hons) Computer Science" />
-  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=0D0D0D" alt="APU × De Montfort University, 2024–2027" />
-  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-F4F2EE?style=flat-square&labelColor=0D0D0D" alt="Year 1 CGPA 3.67" />
-  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=0D0D0D&logo=googlemaps&logoColor=F4F2EE" alt="Kuala Lumpur, Malaysia" />
+  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=C2552F" alt="BSc (Hons) Computer Science" />
+  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=C2552F" alt="APU × De Montfort University, 2024–2027" />
+  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-F4F2EE?style=flat-square&labelColor=C2552F" alt="Year 1 CGPA 3.67" />
+  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=C2552F&logo=googlemaps&logoColor=white" alt="Kuala Lumpur, Malaysia" />
 </p>
 
 <p align="center">
@@ -23,9 +23,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-F4F2EE?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBkMGQwZCI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuMyIvPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8%2BPHBhdGggZD0iTTEwIDloMy44djEuN2MuNi0xIDEuOS0yIDMuOS0yIDMuNCAwIDQuMyAyLjIgNC4zIDUuM1YyMWgtNHYtNmMwLTEuNS0uMy0yLjgtMS45LTIuOC0xLjcgMC0yLjEgMS4yLTIuMSAyLjh2NmgtNHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
-  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-F4F2EE?style=for-the-badge&logo=gmail&logoColor=0D0D0D" alt="Email" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-F4F2EE?style=for-the-badge&logo=github&logoColor=0D0D0D" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -59,7 +59,7 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=oldie&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -85,9 +85,9 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## Connect
 
 <p align="center">
-  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-F4F2EE?style=for-the-badge&logo=gmail&logoColor=0D0D0D" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-F4F2EE?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBkMGQwZCI%2BPGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIuMyIvPjxyZWN0IHg9IjMiIHk9IjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjEyIi8%2BPHBhdGggZD0iTTEwIDloMy44djEuN2MuNi0xIDEuOS0yIDMuOS0yIDMuNCAwIDQuMyAyLjIgNC4zIDUuM1YyMWgtNHYtNmMwLTEuNS0uMy0yLjgtMS45LTIuOC0xLjcgMC0yLjEgMS4yLTIuMSAyLjh2NmgtNHoiLz48L3N2Zz4%3D" alt="LinkedIn" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-F4F2EE?style=for-the-badge&logo=github&logoColor=0D0D0D" alt="GitHub" /></a>
+  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-C2552F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
@@ -95,4 +95,4 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 
 <p align="center"><i>A feature isn't finished when it works. It's finished when people use it.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e9e6e0,100:f4f2ee&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c2552f,100:e08f6c&height=110&section=footer" alt="" />
