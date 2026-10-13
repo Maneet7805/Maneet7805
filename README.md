@@ -1,14 +1,17 @@
 <h1 align="center">Maneet Arvind Mehta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" alt="Software engineer, Computer Science at APU × De Montfort. Shipped a production CRM as an intern. LLM agents with controlled tool calling. Full-stack: Next.js, .NET, PostgreSQL." />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=E6E6E6&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=111111&center=true&vCenter=true&width=680&lines=Software+engineer+%C2%B7+CS+%40+APU+%C3%97+De+Montfort;Shipped+a+production+CRM+as+an+intern;LLM+agents+with+controlled+tool+calling;Full-stack%3A+Next.js+%C2%B7+.NET+%C2%B7+PostgreSQL" alt="Software engineer, Computer Science at APU × De Montfort. Shipped a production CRM as an intern. LLM agents with controlled tool calling. Full-stack: Next.js, .NET, PostgreSQL." />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-4C1D95?style=flat-square" alt="BSc (Hons) Computer Science" />
-  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-312E81?style=flat-square" alt="APU × De Montfort University, 2024–2027" />
-  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-6D28D9?style=flat-square" alt="Year 1 CGPA 3.67" />
-  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-1E1B4B?style=flat-square&logo=googlemaps&logoColor=C4B5FD" alt="Kuala Lumpur, Malaysia" />
+  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-111111?style=flat-square" alt="BSc (Hons) Computer Science" />
+  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-111111?style=flat-square" alt="APU × De Montfort University, 2024–2027" />
+  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-111111?style=flat-square" alt="Year 1 CGPA 3.67" />
+  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-111111?style=flat-square&logo=googlemaps&logoColor=white" alt="Kuala Lumpur, Malaysia" />
 </p>
 
 <p align="center">
@@ -16,13 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
@@ -44,34 +47,11 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 
 ---
 
-## AI / ML
-
-| Domain | Evidence | Details |
-|---|---|---|
-| LLM agents | ![Production](https://img.shields.io/badge/Production-7C3AED?style=flat-square) | Tool-calling agent in Spark CRM |
-| Document extraction | ![Production](https://img.shields.io/badge/Production-7C3AED?style=flat-square) | Vendor sheets & cards → CRM records |
-| LLM tooling | ![Project](https://img.shields.io/badge/Project-4F46E5?style=flat-square) | PromptForge: 4 providers, Whisper voice |
-| Regression | ![Coursework](https://img.shields.io/badge/Coursework-312E81?style=flat-square) | U.S. flight delays in R |
-| ML foundations | ![Certified](https://img.shields.io/badge/Certified-1E1B4B?style=flat-square) | AWS Academy |
-
----
-
-## Experience
-
-**Software Development Intern** · Cloudify Asia (HaaS Technologies) · <sub>May – Aug 2026 · Kuala Lumpur</sub>
-
-- Built and shipped Spark CRM to production, end to end
-- AI agent with controlled tool calling · Gmail & Outlook integrations
-
-<img src="https://img.shields.io/badge/Next.js-1E1B4B?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-312E81?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/PostgreSQL-4C1D95?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-5B21B6?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/LLM%20Agents-6D28D9?style=flat-square" alt="LLM Agents" />
-
----
-
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Maneet7805&background=0B0820&border=312E81&stroke=312E81&ring=8B5CF6&fire=A78BFA&currStreakNum=EDE9FE&sideNums=EDE9FE&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=A5A3C9" alt="GitHub contribution streak" />
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maneet7805&layout=compact&langs_count=8&bg_color=0b0820&title_color=a78bfa&text_color=ddd6fe&border_color=312e81" alt="Most used languages" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Maneet7805&background=111111&border=2B2B2B&stroke=3A3A3A&ring=F5F5F5&fire=F5F5F5&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=E5E5E5&sideLabels=BDBDBD&dates=8A8A8A" alt="GitHub contribution streak" />
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maneet7805&layout=compact&langs_count=8&bg_color=111111&title_color=f5f5f5&text_color=d4d4d4&border_color=2b2b2b" alt="Most used languages" />
 </p>
 
 ---
@@ -79,7 +59,7 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=oldie&no-frame=true&row=1&column=6" alt="GitHub trophies" />
 </p>
 
 ---
@@ -87,7 +67,7 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## Contribution Activity
 
 <p align="center">
-  <img width="100%" src="https://ghchart.rshah.org/7c3aed/Maneet7805" alt="GitHub contribution chart" />
+  <img width="100%" src="profile-3d-contrib/profile-mono.svg" alt="3D view of my GitHub contribution calendar" />
 </p>
 
 ---
@@ -105,14 +85,14 @@ CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** an
 ## Connect
 
 <p align="center">
-  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
+  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 ---
 
 <p align="center"><i>A feature isn't finished when it works. It's finished when people use it.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:312e81,100:0b0820&height=110&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,100:111111&height=110&section=footer" alt="" />
