@@ -5,7 +5,7 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
   push:
-    branches: [main, claude/self-hosted-streak]
+    branches: [main]
     paths:
       - .github/workflows/streak-stats.yml
 
