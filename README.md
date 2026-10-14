@@ -44,7 +44,7 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://streak-stats.demolab.com?user=Maneet7805&background=F4F2EE&border=E9E6E0&stroke=A9A6A0&ring=FF7A59&fire=FF7A59&currStreakNum=FF7A59&sideNums=0D0D0D&currStreakLabel=3A3A3A&sideLabels=77756F&dates=A9A6A0" alt="GitHub contribution streak" />
+  <img width="49%" src="profile/streak.svg" alt="GitHub contribution streak" />
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maneet7805&layout=compact&langs_count=8&bg_color=f4f2ee&title_color=0d0d0d&text_color=3a3a3a&border_color=e9e6e0" alt="Most used languages" />
 </p>
 
