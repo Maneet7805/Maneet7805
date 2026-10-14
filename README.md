@@ -30,12 +30,6 @@
 
 ---
 
-## About
-
-CS student who ships. As an intern at **Cloudify Asia** I built **Spark CRM** and took it to production. Its first customer PO came in **12 hours** after a quotation.
-
----
-
 ## Tech Stack
 
 | | |
