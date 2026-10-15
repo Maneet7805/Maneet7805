@@ -36,19 +36,6 @@
   <img src="assets/tech-ring.svg" width="100%" alt="Technologies I use, rotating inside a ring" />
 </p>
 
-<table>
-  <tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=cs,ts,python,cpp,c,java,js,r&theme=dark" alt="C#, TypeScript, Python, C++, C, Java, JavaScript, R" height="40" /></td></tr>
-  <tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Next.js, React, Tailwind CSS, HTML, CSS" height="40" /></td></tr>
-  <tr><td><b>Backend &amp; DB</b></td><td><img src="https://skillicons.dev/icons?i=dotnet,postgres,redis,mysql&theme=dark" alt=".NET, PostgreSQL, Redis, MySQL" height="40" /></td></tr>
-  <tr><td><b>Cloud &amp; Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,redhat,ubuntu,githubactions,git,figma&theme=dark" alt="Docker, Nginx, Cloudflare, AWS, Red Hat, Ubuntu, GitHub Actions, Git, Figma" height="40" /></td></tr>
-</table>
-
----|---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=cs,ts,python,cpp,c,java,js,r&theme=dark" alt="C#, TypeScript, Python, C++, C, Java, JavaScript, R" height="40" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" alt="Next.js, React, Tailwind CSS, HTML, CSS" height="40" /> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=dotnet,postgres,redis,mysql&theme=dark" alt=".NET, PostgreSQL, Redis, MySQL" height="40" /> |
-| **Cloud & Tools** | <img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,redhat,ubuntu,githubactions,git,jira,figma&theme=dark" alt="Docker, Nginx, Cloudflare, AWS, Red Hat, Ubuntu, GitHub Actions, Git, Jira, Figma" height="40" /> |
-
 ---
 
 ## GitHub Analytics
