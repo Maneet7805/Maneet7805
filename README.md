@@ -10,7 +10,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=FF7A59" alt="BSc (Hons) Computer Science" />
   <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=FF7A59" alt="APU × De Montfort University, 2024–2027" />
-  <img src="https://img.shields.io/badge/Year%201%20CGPA-3.67-F4F2EE?style=flat-square&labelColor=FF7A59" alt="Year 1 CGPA 3.67" />
   <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=FF7A59&logo=googlemaps&logoColor=3A1206" alt="Kuala Lumpur, Malaysia" />
 </p>
 
