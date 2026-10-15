@@ -33,7 +33,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="assets/tech-orbit.svg" width="560" alt="Animated orbit of the technologies I use" />
+  <img src="assets/tech-ring.svg" width="100%" alt="Technologies I use, rotating inside a ring" />
 </p>
 
 <table>
