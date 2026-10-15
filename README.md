@@ -33,7 +33,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="assets/tech-marquee.svg" width="100%" alt="Technologies I use, scrolling left to right" />
+  <img src="assets/tech-ring.svg" width="100%" alt="Technologies I use, rotating inside a ring" />
 </p>
 
 <table>
