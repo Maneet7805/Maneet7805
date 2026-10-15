@@ -83,4 +83,4 @@
 
 ---
 
-<p align="center"><i>A feature isn't finished when it works. It's finished when people use it.</i></p>
+<p align="center"><i>A software isn't finished when it works. It's finished when people use it.</i></p>
