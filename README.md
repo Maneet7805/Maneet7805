@@ -37,6 +37,15 @@
 
 ---
 
+## Open Source Contributions
+
+<p align="center">
+  <a href="https://github.com/spectreconsole/spectre.console/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-spectre.svg" width="360" alt="Spectre.Console: cleared rejected spaces in TextPrompt. Merged." /></a>
+  <a href="https://github.com/mmanela/diffplex/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-diffplex.svg" width="360" alt="DiffPlex: added readable ToString() to DiffPiece. Merged." /></a>
+</p>
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
