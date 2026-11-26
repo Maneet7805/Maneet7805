@@ -39,7 +39,7 @@
   <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Maneet7805&layout=compact&langs_count=8&card_width=482&bg_color=f4f2ee&title_color=0d0d0d&text_color=3a3a3a&border_color=e9e6e0" alt="Most used languages" />
 </p>
 
-<p align="center"><sub>Streak card counts all-time contributions (since Jan 2025). The calendar below shows the last 12 months, so the totals differ slightly.</sub></p>
+<p align="center"><sub>Streak card counts all contributions since Jan 2025; the calendar below shows the last 12 months. They update at different times, so the totals can differ slightly.</sub></p>
 
 
 ### Contribution Activity
