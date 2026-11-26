@@ -13,14 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://maneet7805.github.io"><img width="49%" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
-    <img width="49%" src="assets/about-light.svg" alt="About me: BSc (Hons) Computer Science, APU × De Montfort, 2024–2027, Kuala Lumpur, Malaysia. Final-year project: Securo. Building Phrasor, a Windows tool for refining AI prompts. Contributing small fixes to open source. Aiming for AI engineer or software developer roles." />
-  </picture>
+  <a href="https://maneet7805.github.io"><img width="47.5%" align="top" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a><a href="https://maneet7805.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.png" /><img width="51.5%" align="top" src="assets/about-light.png" alt="About me: BSc (Hons) Computer Science, APU × De Montfort, 2024–2027, Kuala Lumpur, Malaysia. Final-year project: Securo. Building Phrasor, a Windows tool for refining AI prompts. Contributing small fixes to open source. Aiming for AI engineer or software developer roles. Explore my portfolio." /></picture></a>
 </p>
-
-<p align="center"><a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a></p>
 
 
 ### Tech Stack
