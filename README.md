@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://maneet7805.github.io"><img width="47.5%" align="top" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a><a href="https://maneet7805.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.png" /><img width="51.5%" align="top" src="assets/about-light.png" alt="About me: BSc (Hons) Computer Science, APU × De Montfort, 2024–2027, Kuala Lumpur, Malaysia. Final-year project: Securo. Building Phrasor, a Windows tool for refining AI prompts. Contributing small fixes to open source. Aiming for AI engineer or software developer roles. Explore my portfolio." /></picture></a>
+  <a href="https://maneet7805.github.io"><img width="47.5%" align="top" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a><a href="https://maneet7805.github.io"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.png" /><img width="51.5%" align="top" src="assets/about-light.png" alt="About me: BSc (Hons) Computer Science, APU × De Montfort, 2024–2027, Kuala Lumpur, Malaysia. Building Securo (final-year project) to catch data leaks in AI-built apps. Building Phrasor, a Windows tool for refining AI prompts. Contributing small fixes to open source. Aiming for AI engineer or software developer roles. Explore my portfolio." /></picture></a>
 </p>
 
 
