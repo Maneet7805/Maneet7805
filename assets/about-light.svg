@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="271" viewBox="0 0 400 271" role="img" aria-label="About me">
+<style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}</style>
+<text x="14" y="50" font-size="18" font-weight="700" fill="#1f2328">About me</text>
+<rect x="14" y="64" width="72" height="18" fill="#FF7A59"/><text x="20" y="76.5" font-size="10" fill="#3A1206">BSc (Hons)</text><rect x="86" y="64" width="108" height="18" fill="#F4F2EE"/><text x="92" y="76.5" font-size="10" fill="#1f2328">Computer Science</text>
+<rect x="14" y="88" width="114" height="18" fill="#FF7A59"/><text x="20" y="100.5" font-size="10" fill="#3A1206">APU × De Montfort</text><rect x="128" y="88" width="66" height="18" fill="#F4F2EE"/><text x="134" y="100.5" font-size="10" fill="#1f2328">2024–2027</text>
+<rect x="14" y="112" width="84" height="18" fill="#FF7A59"/><text x="20" y="124.5" font-size="10" fill="#3A1206">Kuala Lumpur</text><rect x="98" y="112" width="60" height="18" fill="#F4F2EE"/><text x="104" y="124.5" font-size="10" fill="#1f2328">Malaysia</text>
+<circle cx="18" cy="146" r="2.5" fill="#FF7A59"/>
+<text x="28" y="150" font-size="12" fill="#1f2328">Final-year project: Securo</text>
+<circle cx="18" cy="163" r="2.5" fill="#FF7A59"/>
+<text x="28" y="167" font-size="12" fill="#1f2328">Building Phrasor, a Windows tool</text>
+<text x="28" y="184" font-size="12" fill="#1f2328">for refining AI prompts</text>
+<circle cx="18" cy="197" r="2.5" fill="#FF7A59"/>
+<text x="28" y="201" font-size="12" fill="#1f2328">Contributing small fixes to open source</text>
+<circle cx="18" cy="214" r="2.5" fill="#FF7A59"/>
+<text x="28" y="218" font-size="12" fill="#1f2328">Aiming for AI engineer or</text>
+<text x="28" y="235" font-size="12" fill="#1f2328">software developer roles</text>
+</svg>

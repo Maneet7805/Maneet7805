@@ -12,49 +12,33 @@
   <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="middle">
-      <a href="https://maneet7805.github.io"><img width="100%" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
-    </td>
-    <td width="50%" valign="middle">
-      <h3>About me</h3>
-      <p>
-        <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=FF7A59" alt="BSc (Hons) Computer Science" />
-        <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=FF7A59" alt="APU × De Montfort University, 2024–2027" />
-        <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=FF7A59&logo=googlemaps&logoColor=3A1206" alt="Kuala Lumpur, Malaysia" />
-      </p>
-      <ul>
-        <li>Final-year project: Securo</li>
-        <li>Building Phrasor, a Windows tool for refining AI prompts</li>
-        <li>Contributing small fixes to open source</li>
-        <li>Aiming for AI engineer or software developer roles</li>
-      </ul>
-      <p><a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://maneet7805.github.io"><img width="49%" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg" />
+    <img width="49%" src="assets/about-light.svg" alt="About me: BSc (Hons) Computer Science, APU × De Montfort, 2024–2027, Kuala Lumpur, Malaysia. Final-year project: Securo. Building Phrasor, a Windows tool for refining AI prompts. Contributing small fixes to open source. Aiming for AI engineer or software developer roles." />
+  </picture>
+</p>
 
----
+<p align="center"><a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a></p>
 
-## Tech Stack
+
+### Tech Stack
 
 <p align="center">
   <img src="assets/tech-ring.svg" width="100%" alt="Technologies I use, rotating inside a ring" />
 </p>
 
----
 
-## Open Source Contributions
+### Open Source Contributions
 
 <p align="center">
   <a href="https://github.com/spectreconsole/spectre.console/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-spectre.svg" width="360" alt="Spectre.Console: cleared rejected spaces in TextPrompt. Merged." /></a>
   <a href="https://github.com/mmanela/diffplex/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-diffplex.svg" width="360" alt="DiffPlex: added readable ToString() to DiffPiece. Merged." /></a>
 </p>
 
----
 
-## GitHub Analytics
+### GitHub Analytics
 
 <p align="center">
   <img width="49%" src="profile/streak.svg" alt="GitHub contribution streak" />
@@ -63,9 +47,8 @@
 
 <p align="center"><sub>Streak card counts all-time contributions (since Jan 2025). The calendar below shows the last 12 months, so the totals differ slightly.</sub></p>
 
----
 
-## Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img width="100%" src="profile-3d-contrib/profile-mono.svg" alt="3D view of my GitHub contribution calendar" />
@@ -73,9 +56,8 @@
 
 <p align="center"><sub>Last 12 months &middot; refreshed daily</sub></p>
 
----
 
-## Contribution Snake
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maneet7805/Maneet7805/output/github-snake-dark.svg" />
@@ -83,9 +65,8 @@
   <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Maneet7805/Maneet7805/output/github-snake.svg" />
 </picture>
 
----
 
-## GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub trophies" />
@@ -93,7 +74,7 @@
 
 ---
 
-## Connect
+### Connect
 
 <p align="center">
   <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -101,6 +82,5 @@
   <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7A59?style=for-the-badge&logo=googlechrome&logoColor=3A1206" alt="Portfolio" /></a>
 </p>
 
----
 
 <p align="center"><i>A software isn't finished when it works. It's finished when people use it.</i></p>
