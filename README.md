@@ -59,14 +59,6 @@
 
 ---
 
-## GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</p>
-
----
-
 ## Contribution Activity
 
 <p align="center">
@@ -84,6 +76,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maneet7805/Maneet7805/output/github-snake.svg" />
   <img alt="Snake animation eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Maneet7805/Maneet7805/output/github-snake.svg" />
 </picture>
+
+---
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Maneet7805&theme=gruvbox&no-frame=true&row=1&column=6" alt="GitHub trophies" />
+</p>
 
 ---
 
