@@ -12,22 +12,28 @@
   <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<a href="https://maneet7805.github.io"><img align="left" width="48%" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
-
-<h3>About me</h3>
-
-<img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=FF7A59" alt="BSc (Hons) Computer Science" />
-<img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=FF7A59" alt="APU × De Montfort University, 2024–2027" />
-<img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=FF7A59&logo=googlemaps&logoColor=3A1206" alt="Kuala Lumpur, Malaysia" />
-
-- Final-year project: Securo
-- Building Phrasor, a Windows tool for refining AI prompts
-- Contributing small fixes to open source
-- Aiming for AI engineer or software developer roles
-
-<a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a>
-
-<br clear="left" />
+<table>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://maneet7805.github.io"><img width="100%" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
+    </td>
+    <td width="50%" valign="middle">
+      <h3>About me</h3>
+      <p>
+        <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=FF7A59" alt="BSc (Hons) Computer Science" />
+        <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=FF7A59" alt="APU × De Montfort University, 2024–2027" />
+        <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=FF7A59&logo=googlemaps&logoColor=3A1206" alt="Kuala Lumpur, Malaysia" />
+      </p>
+      <ul>
+        <li>Final-year project: Securo</li>
+        <li>Building Phrasor, a Windows tool for refining AI prompts</li>
+        <li>Contributing small fixes to open source</li>
+        <li>Aiming for AI engineer or software developer roles</li>
+      </ul>
+      <p><a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
