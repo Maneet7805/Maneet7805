@@ -8,24 +8,26 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=FF7A59" alt="BSc (Hons) Computer Science" />
-  <img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=FF7A59" alt="APU × De Montfort University, 2024–2027" />
-  <img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=FF7A59&logo=googlemaps&logoColor=3A1206" alt="Kuala Lumpur, Malaysia" />
-</p>
-
-<p align="center">
-  <a href="https://maneet7805.github.io"><img src="assets/portfolio-preview.png" width="88%" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
-</p>
-
-<p align="center">
-  <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a>
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+<a href="https://maneet7805.github.io"><img align="left" width="48%" src="assets/portfolio-preview.png" alt="Preview of my portfolio site, maneet7805.github.io. Click to open it." /></a>
+
+<h3>About me</h3>
+
+<img src="https://img.shields.io/badge/BSc%20(Hons)-Computer%20Science-F4F2EE?style=flat-square&labelColor=FF7A59" alt="BSc (Hons) Computer Science" />
+<img src="https://img.shields.io/badge/APU%20%C3%97%20De%20Montfort-2024%E2%80%932027-F4F2EE?style=flat-square&labelColor=FF7A59" alt="APU × De Montfort University, 2024–2027" />
+<img src="https://img.shields.io/badge/Kuala%20Lumpur-Malaysia-F4F2EE?style=flat-square&labelColor=FF7A59&logo=googlemaps&logoColor=3A1206" alt="Kuala Lumpur, Malaysia" />
+
+- Final-year project: Securo
+- Building Phrasor, a Windows tool for refining AI prompts
+- Contributing small fixes to open source
+- Aiming for AI engineer or software developer roles
+
+<a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-%E2%86%92-FF7A59?style=for-the-badge&labelColor=FF7A59&logo=googlechrome&logoColor=3A1206" alt="Explore my portfolio" /></a>
+
+<br clear="left" />
 
 ---
 
@@ -90,7 +92,6 @@
 <p align="center">
   <a href="mailto:maneet.arvind@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://linkedin.com/in/maneet-arvind-mehta"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxjaXJjbGUgY3g9IjUiIGN5PSI1IiByPSIyLjMiLz48cmVjdCB4PSIzIiB5PSI5IiB3aWR0aD0iNCIgaGVpZ2h0PSIxMiIvPjxwYXRoIGQ9Ik0xMCA5aDMuOHYxLjdjLjYtMSAxLjktMiAzLjktMiAzLjQgMCA0LjMgMi4yIDQuMyA1LjNWMjFoLTR2LTZjMC0xLjUtLjMtMi44LTEuOS0yLjgtMS43IDAtMi4xIDEuMi0yLjEgMi44djZoLTR6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
-  <a href="https://github.com/Maneet7805"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://maneet7805.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7A59?style=for-the-badge&logo=googlechrome&logoColor=3A1206" alt="Portfolio" /></a>
 </p>
 
