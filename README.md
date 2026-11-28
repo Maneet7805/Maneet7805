@@ -27,9 +27,9 @@
 ### Open Source Contributions
 
 <p align="center">
-  <a href="https://github.com/spectreconsole/spectre.console/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-spectre.svg" width="260" alt="Spectre.Console: cleared rejected spaces in TextPrompt. Merged." /></a>
-  <a href="https://github.com/mmanela/diffplex/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-diffplex.svg" width="260" alt="DiffPlex: added readable ToString() to DiffPiece. Merged." /></a>
-  <a href="https://github.com/nunit/nunit/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-nunit.svg" width="260" alt="NUnit: made test ID generation thread-safe. Merged." /></a>
+  <a href="https://github.com/spectreconsole/spectre.console/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-spectre.svg" width="32%" alt="Spectre.Console: cleared rejected spaces in TextPrompt. Merged." /></a>
+  <a href="https://github.com/mmanela/diffplex/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-diffplex.svg" width="32%" alt="DiffPlex: added readable ToString() to DiffPiece. Merged." /></a>
+  <a href="https://github.com/nunit/nunit/pulls?q=is%3Apr+is%3Amerged+author%3AManeet7805"><img src="assets/oss-nunit.svg" width="32%" alt="NUnit: made test ID generation thread-safe. Merged." /></a>
 </p>
 
 
