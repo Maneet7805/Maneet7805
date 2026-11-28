@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="122" viewBox="0 0 200 122" role="img" aria-label="NUnit: Made test ID generation thread-safe. Merged."><style>text{font-family:ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',monospace}</style>
+<rect width="200" height="120" rx="9" fill="#f4f2ee"/><path d="M10 118H190" stroke="#FF7A59" stroke-width="3.5" stroke-linecap="round"/>
+<rect x="11" y="11" width="34" height="34" rx="9" fill="#0d0d0d"/><text x="28" y="33" text-anchor="middle" font-size="14" fill="#f4f2ee">NU</text>
+<rect x="101" y="15" width="88" height="25" rx="12.5" fill="#8250df"/><g fill="none" stroke="#fff" stroke-width="1.6"><circle cx="114" cy="22" r="2.2"/><circle cx="114" cy="33" r="2.2"/><circle cx="123" cy="30" r="2.2"/><path d="M114 24.2v6.6M114 24.2q1 5.8 6.8 5.8"/></g><text x="155" y="32" text-anchor="middle" font-size="13" fill="#fff">Merged</text>
+<text x="11" y="70" font-size="15" font-weight="600" fill="#0d0d0d">NUnit</text>
+<text x="11" y="90" font-size="12.5" fill="#3a3a3a">Made test ID</text><text x="11" y="106" font-size="12.5" fill="#3a3a3a">generation thread-safe</text></svg>
